@@ -15,7 +15,7 @@
       "default_mode": "rule"
     },
   "cache_file": {
-    "enabled": false,
+    "enabled": true,
     "path": "/etc/sing-box/cache.db",
     "store_fakeip": false
     }
